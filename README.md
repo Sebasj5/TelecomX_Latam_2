@@ -1,2 +1,1 @@
-# TelecomX_Latam_2
-Challenge Telecom
+# Telecom X - Análisis de Evasión de Clientes (Churn) Este proyecto forma parte de un desafío académico de análisis de datos en el contexto de la empresa ficticia **Telecom X**, cuyo objetivo es entender los factores que influyen en la **cancelación de clientes (churn)** y proponer estrategias basadas en datos para reducirla.
