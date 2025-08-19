@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo analizar los factores que influyen en la **can
 
 - **README.md** → Documento explicativo del proyecto.  
 - **telecomX.csv** → Conjunto de datos de clientes y sus características.  
-- **analisis_churn.ipynb** → Notebook con el análisis exploratorio, preprocesamiento, modelado y evaluación de resultados.  
+- **TelecomX_latam_2.ipynb** → Notebook con el análisis exploratorio, preprocesamiento, modelado y evaluación de resultados.  
 
 ---
 
