@@ -1,1 +1,20 @@
-# Telecom X - Análisis de Evasión de Clientes (Churn) Este proyecto forma parte de un desafío académico de análisis de datos en el contexto de la empresa ficticia **Telecom X**, cuyo objetivo es entender los factores que influyen en la **cancelación de clientes (churn)** y proponer modelos predictivos.
+#  Análisis de Cancelación de Clientes (Churn) - TelecomX
+
+Este proyecto tiene como objetivo analizar los factores que influyen en la **cancelación de clientes (churn)** de la empresa ficticia **TelecomX**, utilizando técnicas de análisis de datos y modelos de machine learning para predecir la probabilidad de cancelación y proponer estrategias de retención.
+
+---
+
+## 📂 Archivos del proyecto
+
+- **README.md** → Documento explicativo del proyecto.  
+- **telecomX.csv** → Conjunto de datos de clientes y sus características.  
+- **analisis_churn.ipynb** → Notebook con el análisis exploratorio, preprocesamiento, modelado y evaluación de resultados.  
+
+---
+
+## ⚙️ Requisitos
+
+Para ejecutar el notebook se necesita tener instalado **Python 3.10+** y las siguientes librerías:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
